@@ -20,6 +20,8 @@
    plt.scatter(gep.xyz[:,0], gep.xyz[:,1])
    plt.axis('equal'); plt.show()
 ```
+
+
 3. Dependencies
    - sisl
    - ASE
