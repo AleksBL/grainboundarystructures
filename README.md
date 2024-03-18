@@ -22,3 +22,5 @@
 ```
 3. Dependencies
    - sisl
+   - ASE
+   - numpy
