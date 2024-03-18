@@ -6,7 +6,7 @@
 
 2. Usage
    The code can be imported in a python script as
-   ```python
+```python
    import matplotlib.pyplot as plt
    import numpy as np
    import sisl
@@ -20,7 +20,6 @@
    plt.scatter(gep.xyz[:,0], gep.xyz[:,1])
    plt.axis('equal'); plt.show()
 ```
-
 
 3. Dependencies
    - sisl
